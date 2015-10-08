@@ -21,7 +21,7 @@ description: ""
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "notebookies.com"
+url: ""
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
