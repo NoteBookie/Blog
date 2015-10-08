@@ -1,0 +1,15 @@
+- name: Weibo
+  url: http://weibo.com/notebookie
+  class: icon-weibo
+
+- name: Zhihu
+  url: http://www.zhihu.com/people/notebookie
+  class: icon-zhihu
+
+- name: GitHub
+  url: http://github.com/notebookie
+  class: icon-github
+
+- name: E-Mail
+  url: mailto:notebookie@outlook.com
+  class: icon-mail

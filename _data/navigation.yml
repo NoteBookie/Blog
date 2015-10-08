@@ -1,0 +1,19 @@
+- title: <span class="icon-home"/>
+  url: "/"
+  side: left
+
+- title: "笔记"
+  url: "/note/"
+  side: left
+
+- title: "饼干"
+  url: "/cookies/"
+  side: left
+
+- title: "图集"
+  url: "/gallery/"
+  side: left
+
+- title: "关于我"
+  url: "/about/"
+  side: right
