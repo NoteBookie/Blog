@@ -58,7 +58,7 @@ exclude: []
 include: ['.htaccess']
 
 redcarpet:
-   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
